@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(150, 160, 207);
+}
+.div{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    font-family:'Courier New', Courier, monospace ;
+
+}
+p{
+    background: white;
+
+}
